@@ -1,7 +1,7 @@
 linear_regression_api
 ==============================
 
-[![Build Status](https://jenkins.indigo-datacloud.eu/buildStatus/icon?job=Pipeline-as-code/DEEP-OC-org/linear_regression_api/master)](https://jenkins.indigo-datacloud.eu/job/Pipeline-as-code/job/DEEP-OC-org/job/linear_regression_api/job/master)
+[![Build Status](https://jenkins.indigo-datacloud.eu/buildStatus/icon?job=Pipeline-as-code/DEEP-OC-org/linear_regression_api/test)](https://jenkins.indigo-datacloud.eu/job/Pipeline-as-code/job/DEEP-OC-org/job/linear_regression_api/job/test)
 
 This is API to be exposed as REST API over ML Models
 
